@@ -11,9 +11,4 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+這是我們共同的王國！我樂於和別人分享，也喜歡聽到別人的故事。或許你在你的人生裏有什麼迷惘之類，你或許可以碰碰運氣來信和我聊天 ? 也許能幫助你得到一些啟發！歡迎來信！
