@@ -1,15 +1,14 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+name: Anthem
+display_name: Mr. Anthem
+position: Hong Kong
+bio: Researcher on self-development
+github_username: anthemjelly
+facebook_username: Jelly Anthem
+twitter_username: Anthem Jelly
+instagram_username: anthemjelly
+linkedin_username: anthemjelly
+medium_username: Anthemjelly
 ---
-
