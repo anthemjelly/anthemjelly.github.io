@@ -4,8 +4,7 @@ name: Jelly Kingdom
 #The website title is used for SEO purposes and set the home page title.
 title: Jelly Kingdom | growth, self-development, games and toys
 #The website description is used for SEO purposes only.
-description: Jelly Kingdom is focus on people growth and development . we share
-our experient and compare vocational research and artical for people in all ages .
+description: Jelly Kingdom is focus on people growth and development . we share our experient and compare vocational research and artical for people in all ages .
 #The website tags are used as keywords for SEO purposes.
 tags:
   - blog
@@ -35,9 +34,9 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
+github_username: anthemjelly
+facebook_username: anthemjelly
+twitter_username: anthemjelly
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
