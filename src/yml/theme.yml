@@ -1,5 +1,8 @@
-themeColor: '#ff0a16'
+#"Get this theme!"'s Box color, "Read" icon color'
+themeColor: '#0b279b'
+#Title background
 primaryDark: '#141414'
-accentDark: '#ffffff'
-lightGray: '#f2f2f2'
+#Title , Subtitle color
+accentDark: '#1e6dbd'
+lightGray: '#5bb7ad'
 texts: '#333333'
