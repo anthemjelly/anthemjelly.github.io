@@ -2,14 +2,14 @@
 date: 2019-05-16 23:48:05
 layout: post
 title: Welcome to our Kingdom !
-subtitle: '這是我們共同的王國！'
+subtitle: '歡迎到此一遊！'
 description: >-
-  歡迎你在此隨意探索，遇到什麼感興趣的話，不妨拿起來看看?
+  歡迎你在此隨意探索，這裏什麼都沒有！我還在創作中
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/djuiluc1r/image/upload/v1706109567/disguisting_lv2cpm.gif
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+  https://res.cloudinary.com/djuiluc1r/image/upload/v1706109567/disguisting_lv2cpm.gif
+category: individual
 tags:
   - welcome
   - blog

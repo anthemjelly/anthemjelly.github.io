@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: Anthem
-display_name: Mr. Anthem
+display_name: Anthem Jelly
 position: Hong Kong
 bio: Researcher on self-development
 github_username: anthemjelly
