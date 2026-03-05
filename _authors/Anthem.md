@@ -5,7 +5,7 @@ name: Anthem
 display_name: Anthem Jelly
 position: Hong Kong
 bio: Researcher on self-development
-github_username: anthemjelly
+github_username: GGName
 facebook_username: Jelly Anthem
 twitter_username: Anthem Jelly
 instagram_username: anthemjelly
